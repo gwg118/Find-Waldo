@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    
+}
+
+
+<div class="row">
+    <div class="col-md-6 margin-top-20">
+        <a href="@Url.Action("Index", "Patient")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-home"></span> Home</a>
+        <a href="@Url.Action("Index", "Patient")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-eye-open"></span> Manage Patients</a>
+        
+    </div>
+    <div class="col-md-6 margin-top-20">
+        <a href="@Url.Action("Index", "Room")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-bed"></span> Manage Rooms</a>
+        <a href="@Url.Action("Details", "Staff")" class="btn btn-primary btn-large btn-block"><span class="glyphicon glyphicon-user"></span> Manage Staff</a>
+        
+    </div>
+</div>
+
+
+Your are using @Request.Browser.Browser, and that is ok! Email me at gideon.gordon@gmail.com.

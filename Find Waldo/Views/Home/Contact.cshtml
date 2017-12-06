@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+
+
+
+<address>
+    Find Waldo Inc.<br />
+    Willow Grove, PA 19090<br />
+    <abbr title="Phone">P:</abbr>
+    267.342.4312
+</address>
+
+<address>
+    <strong>Support:</strong>   <a href="mailto:gideon.gordon@gmail.com">gideon.gordon@gmail.com</a><br />
+</address>
+
+<h3>@ViewBag.TheMessage</h3>
+<form method="post">
+    <textarea name="message"></textarea>
+    <input type="submit" value="Send" />
+</form>

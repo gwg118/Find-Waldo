@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Waldo", "Find Waldo\Find Waldo.csproj", "{BF2BE0AE-4DB2-450B-9208-E12605A44C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Waldo.Tests", "Find Waldo.Tests\Find Waldo.Tests.csproj", "{2D0CB020-09FE-41D4-8EA3-7FDA016D7FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2BE0AE-4DB2-450B-9208-E12605A44C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2BE0AE-4DB2-450B-9208-E12605A44C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2BE0AE-4DB2-450B-9208-E12605A44C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2BE0AE-4DB2-450B-9208-E12605A44C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0CB020-09FE-41D4-8EA3-7FDA016D7FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0CB020-09FE-41D4-8EA3-7FDA016D7FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0CB020-09FE-41D4-8EA3-7FDA016D7FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0CB020-09FE-41D4-8EA3-7FDA016D7FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
