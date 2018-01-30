@@ -16,5 +16,6 @@ education, and technical ability can successfully use it for patient management.
 staff members be properly trained on the system prior to use.
 
 ***
-
+# Home Screen
+![](https://i.imgur.com/C1N6Jvd.png)
 
