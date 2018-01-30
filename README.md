@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/Jfw4Ey6.png)
 
 # Find Waldo
-This web application is developed to track patients through a facility. The app is built with ASP.Net in an MVC framework environment with a backend SQL database.The front end of the app is a combination of HTML, CSS, Java Scripting, VB, JQuiry, and BootStrap. It is C# and Object Oriented Programming based.    
+This web application is developed to track patients through a facility. The app is built with ASP.Net in an MVC framework environment with a backend SQL database.The front end is a combination of HTML, CSS, Java Scripting, VB, JQuiry, and BootStrap. It is C# and Object Oriented Programming based.    
 
 # Overview
 
