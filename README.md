@@ -19,3 +19,20 @@ staff members be properly trained on the system prior to use.
 # Home Screen
 ![](https://i.imgur.com/C1N6Jvd.png)
 
+# Register Screen
+![](https://i.imgur.com/24M6Rjc.png)
+
+# Log In Screen
+![](https://i.imgur.com/eFqnIkZ.png)
+
+# Contact Screen
+![](https://i.imgur.com/SIgwIZq.png)
+
+# Patient List Screen
+![](https://i.imgur.com/vEHeQhc.png)
+
+# Staff Screen
+![](https://i.imgur.com/W19u7EG.png)
+
+# Room Screen
+![](https://i.imgur.com/5MNPkCY.png)
